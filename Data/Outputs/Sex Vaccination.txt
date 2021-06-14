@@ -1,0 +1,1 @@
+[['Sex', '% Persons at least One Dose', '# Persons at least One Dose', '% US Population'], ['Female', '53', '83903804', '50.8'], ['Male', '47', '74420509', '49.2']]
