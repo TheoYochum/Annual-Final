@@ -35,9 +35,3 @@ for i in range(len(text)):
     text[i].pop(4)
     text[i].pop(4)
     text[i].pop(4)
-
-# for i in text[0]:
-#     print(i)
-
-for i in range(10):
-    print(text[i])
