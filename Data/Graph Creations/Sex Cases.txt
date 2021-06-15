@@ -1,0 +1,1 @@
+[['Sex', 'Percent of cases', 'Count of cases', 'Percent of US population'], ['Female', '52.2', '13937579', '50.75'], ['Male', '47.8', '12759376', '49.25'], ['Other', '<0.1', '500', 'N/A']]
