@@ -7,8 +7,6 @@ body {
     padding-bottom: 2%;
     margin-left: 0px;
     margin-right: 0px;
-    background-color: #14213D;
-    color: #FFFFFF;
 }
 
 img {
@@ -20,18 +18,11 @@ img {
 h1,h2,h3 {
     font-family: Arial;
     text-align: center;
-    color: #CCCCCC;
 }
 
 h2 {
     margin-top: 0px;
     margin-bottom: 0px;
-}
-
-.section {
-    border: solid #FFFFFF 2px;
-    padding: 2%;
-    margin-top: 5%;
 }
 
 p {
@@ -60,12 +51,10 @@ p {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
-    border: solid #FFFFFF 2px;
+    border: solid #000000 2px;
     text-align: left;
-    position: fixed;
+    position: absolute;
     width: 90%;
-    top: 20px;
-    background-color: #14213D;
 }
 .navbar li {
     float: left;
@@ -73,7 +62,7 @@ p {
 
 .navbar a {
     display: block;
-    border-right: solid #FFFFFF 1px;
+    border-right: solid #000000 1px;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-right: 20px;
@@ -81,7 +70,7 @@ p {
 }
 
 .navbar a.active {
-    background-color: #FFFFFF;
+    background-color: #000000;
 }
 
 .navbar a:hover {
@@ -90,7 +79,7 @@ p {
 
 #about {
     float: right;
-    border-left: solid #FFFFFF 1px;
+    border-left: solid #000000 1px;
     border-right: none;
 }
 
