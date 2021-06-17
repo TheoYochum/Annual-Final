@@ -70,6 +70,7 @@ li {
 .navbar a {
     display: block;
     text-decoration: none;
+    color: #000;
     border-right: solid #000000 1px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -93,6 +94,7 @@ li {
     float: right;
     border-left: solid #000000 1px;
     border-right: none;
+    color: #000000;
 }
 
 /* Links */
