@@ -259,8 +259,8 @@ def axis(datain, index):
 # plt.clf()
 # 
 # 
-# #####################################################
-# 
+#####################################################
+
 # #Full vs One Dose
 # 
 # with open('Vaccinations Total.txt', 'r') as data:
@@ -301,13 +301,13 @@ def axis(datain, index):
 # #Formating
 # plt.tight_layout()
 # plt.subplots_adjust(left = 0.13, bottom = 0.155, right = 0.977, top = 0.926, wspace = 0.195, hspace = 0.2)
-# plt.legend(['Fully Vaccinated', 'Partially Vaccinated'])
+# plt.legend(['Partially Vaccinated', 'Fully Vaccinated'])
 # 
 # #plt.show()
 # plt.savefig('Vaccination Dosage Comparison', bbox_inches = 'tight')
 # plt.clf()
-# 
-# #####################################################
+
+#####################################################
 # 
 # #Pfizer vs Moderna vs Janssen
 # 
